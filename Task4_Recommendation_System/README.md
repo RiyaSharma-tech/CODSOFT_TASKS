@@ -88,7 +88,7 @@ python gui.py
 ```text
 CODSOFT_TASKS/
 │
-└── Task 4 - Movie Recommendation System/
+└── Task4_Recommendation_System/
     │
     ├── gui.py
     ├── recommandation.py
